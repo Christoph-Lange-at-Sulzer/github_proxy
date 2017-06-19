@@ -21,7 +21,7 @@ Following programs are required:
 Download and unzip the source repository for this task, or clone it using Git:
 
 ```
-git clone https://github.com/TBD.git
+git clone https://github.com/Christoph-Lange-at-Sulzer/github_proxy.git
 ```
 
 Open a terminal window, go to the downloaded/cloned task's source folder and execute then Maven command to start spring-boot:
